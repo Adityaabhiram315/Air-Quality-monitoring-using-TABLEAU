@@ -1,4 +1,4 @@
-# Air Quality Monitoring using Tableau 🌬️
+
 ![air quality banner](https://github.com/Adityaabhiram315/Air-Quality-Monitoring-using-Tableau-/assets/95640107/2f5cac1b-71f1-4f3d-ab97-deb7e7e7a4c8)
 
 
