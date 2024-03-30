@@ -1,7 +1,10 @@
 # Air Quality Monitoring using Tableau 🌬️
 
+
 ## 📝 Overview
 This Tableau Dashboard project aims to provide a comprehensive exploration of India's air pollution levels in relation to environmental policy changes. By utilizing the Historical Daily Ambient Air Quality Data released by the Ministry of Environment and Forests and Central Pollution Control Board of India, this dashboard offers insights into air quality trends across different states or regions in India over the years.
+
+
 ![Air Quality Monitoring](https://github.com/Adityaabhiram315/Air-Quality-Monitoring-using-Tableau-/assets/95640107/1967db62-8627-4036-bab7-5e29e20c6f35)
 
 
